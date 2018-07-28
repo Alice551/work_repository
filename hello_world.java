@@ -7,7 +7,6 @@ public class hello_world {
 		for ( int index = 0; index < 5; ++index ) {
 			System.out.println(index);
 		}
-		System.out.println("Test2");
 	}
 
 }
